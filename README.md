@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrstench
 - 👀 I’m interested in php
-- 🌱 I’m currently learning goland
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
